@@ -1,6 +1,7 @@
-<div align="center"><img src="https://raw.githubusercontent.com/commonkestrel/GoogleImageScraper/master/misc/logo.png" width=640px></div>
+# **Note: Check out latest working Google Image Scraper in [https://github.com/feceugur/GoogleImageScraper.git](https://github.com/feceugur/GoogleImageScraper.git)**
 
 # Google Image Scraper
+<div align="center"><img src="https://raw.githubusercontent.com/commonkestrel/GoogleImageScraper/master/misc/logo.png" width=640px></div>
 
 This is a library for retrieving and downloading images from Google Images.  
 It uses an input query and arguments to search and retrive image objects.
